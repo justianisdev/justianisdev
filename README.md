@@ -1,6 +1,6 @@
 ## Hi!
 
-will fill this out later lol / hoping to port all my projects here within the next month
+will fill this out later / hoping to port all my projects here within the next month
 
 !!!
 
