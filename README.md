@@ -1,8 +1,8 @@
 ## Hi!
 
-will fill this out later / hoping to port all my projects here within the next month, everything displayed currently is old and bad
+hoping to upload all my projects here by august but for now feel free to browse my old stuff!
 
-!!!
+Experienced in, Javascript (1yr+) Python (6mo+) lua (1yr+) and C# (6mo+)
 
 <!--
 **justianisdev/justianisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
