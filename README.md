@@ -2,7 +2,7 @@
 
 Currently Working on [CodeQuilt](https://github.com/justianisdev/CodeQuilt) and other programming related ventures
 
-### Experience(d) in 
+### Experience in 
 
 **3+ years of...**
 - Javascript + React
